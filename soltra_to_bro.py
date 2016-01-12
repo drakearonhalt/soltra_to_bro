@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 # Connnect directly to Soltra's mongo instance and download indicators 
-# Turn this into bro's intel framework format and send to the salt master server
 
 # Intel Framework expected input tab separated
 # fields indicator       indicator_type  meta.source     meta.desc
